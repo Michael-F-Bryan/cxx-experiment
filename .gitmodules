@@ -1,3 +1,0 @@
-[submodule "vendor/bzip2"]
-	path = vendor/bzip2
-	url = git://sourceware.org/git/bzip2.git
