@@ -1,3 +1,0 @@
-[submodule "vendor/libtorrent"]
-	path = vendor/libtorrent
-	url = https://github.com/arvidn/libtorrent
