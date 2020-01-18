@@ -9,5 +9,4 @@ edition = "2018"
 cxx = "0.1.0"
 
 [dependencies]
-clang-sys = { version = "0.28.1", features = ["clang_8_0", "static"] }
 
